@@ -29,4 +29,4 @@ masscan 192.168.0.0/16 -p80,443,8080,1433,3306 --banners --rate=100000 -oX scan.
 python3 masscan_xml_to_xls.py -x 2.xml -o 2.xlsx
 ```
 
-![image-20201108142152971](.\image-20201108142152971.png)
+![image-20201108142152971](https://github.com/keefe1024/EasyTools/blob/master/masscan_xml_to_xls/image-20201108142152971.png?raw=true)
